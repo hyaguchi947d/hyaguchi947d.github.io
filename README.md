@@ -6,4 +6,4 @@
 - [クォータニオンを用いた三次元回転](pdf/quaternion.pdf)
 - [プロジェクト開発とスクラム](pdf/scrum.pdf)
 - [順運動学と逆運動学](pdf/kinematics.pdf)
-- [状態方程式の離散化](pdf/discetization.pdf)
+- [状態方程式の離散化](pdf/discretization.pdf)
