@@ -4,6 +4,7 @@
 
 - [同次座標変換](pdf/homogeneous_transform.pdf)
 - [クォータニオンを用いた三次元回転](pdf/quaternion.pdf)
+- [クォータニオンを用いた三次元回転(補足)](pdf/quaternion_appendix.pdf)
 - [プロジェクト開発とスクラム](pdf/scrum.pdf)
 - [順運動学と逆運動学](pdf/kinematics.pdf)
 - [状態方程式の離散化](pdf/discretization.pdf)
