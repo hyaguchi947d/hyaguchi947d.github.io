@@ -8,3 +8,4 @@
 - [プロジェクト開発とスクラム](pdf/scrum.pdf)
 - [順運動学と逆運動学](pdf/kinematics.pdf)
 - [状態方程式の離散化](pdf/discretization.pdf)
+- [相補フィルタで6軸IMUの姿勢推定](pdf/imu_comp_filter.pdf)
